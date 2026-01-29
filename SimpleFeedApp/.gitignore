@@ -3,6 +3,8 @@ DerivedData/
 xcuserdata/
 *.xccheckout
 *.xcscmblueprint
+*.xcworkspace/xcuserdata/
+*.xcuserdatad/
 
 build/
 *.ipa
